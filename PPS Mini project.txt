@@ -8,20 +8,6 @@
     printf("<3> Withdraw money\n");
     printf("<4> Exit\n\n");
 }
- void checkbalance(float balance){
-    printf("you chose to See your Account Balance\n");
-    printf("\n\n your Available Balance is:%.2f\n\n",balance);
-}
- void mainMenu(){
-    
-    printf("***hello*****\n");
-    printf("****WELCOME TO MSD ATM***\n\n");
-    printf("****please choose one of the options below**\n\n");
-    printf("<1> Check amount balance\n");
-    printf("<2> Deposit money\n");
-    printf("<3> Withdraw money\n");
-    printf("<4> Exit\n\n");
-}
 void checkbalance(float balance){
     printf("you chose to See your Account Balance\n");
     printf("\n\n your Available Balance is:%.2f\n\n",balance);
